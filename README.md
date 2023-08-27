@@ -14,12 +14,6 @@
 
 ----
 
-## GitHub Statistics
-
-<!--START_SECTION:waka-->
-📅 **I'm Most Productive on Wednesday's and Friday's** 
-<!--END_SECTION:waka-->
-
 [website]: https://carsons-development.tebex.io/
 [twitch]: https://www.twitch.tv/plrpcarson
 [youtube]: https://www.youtube.com/channel/UCGYAXahJhagTQvjswvL8gbA
